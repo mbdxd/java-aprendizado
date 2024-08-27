@@ -1,6 +1,9 @@
 ## Java Aprendizado
 
-Este repositório é dedicado ao meu processo de aprendizado e prática com Java. Aqui você encontrará uma coleção de desafios, exercícios e projetos que estou desenvolvendo para aprimorar minhas habilidades em programação Java.
+**Este repositório é dedicado ao meu processo de aprendizado e prática com Java. Aqui você encontrará uma coleção de desafios, exercícios e projetos que estou desenvolvendo para aprimorar minhas habilidades em programação Java.**
+
+<p align="center">
+<img src="assets/image/RoadmapJava.png"><br>
 
 ### O que você encontrará aqui:
 - **Desafios de Programação**: Soluções e melhorias para problemas de programação que estou resolvendo.
