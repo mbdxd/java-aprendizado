@@ -1,4 +1,4 @@
-package DesafioPOO;
+package DesafioPOO.Classes;
 
 import java.util.LinkedHashSet;
 import java.util.Objects;

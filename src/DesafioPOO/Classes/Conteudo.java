@@ -1,4 +1,4 @@
-package DesafioPOO;
+package DesafioPOO.Classes;
 
 public abstract class Conteudo {
 
