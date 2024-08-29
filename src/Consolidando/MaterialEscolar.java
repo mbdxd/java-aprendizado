@@ -19,7 +19,7 @@ public class MaterialEscolar {
         System.out.println(MateriaisFormatados);
         System.out.println("Digite o seu:");
         String MateriaisEscolhidos = scanner.nextLine().trim();
-
+        scanner.close();
 
         String[] osMateriais = MateriaisEscolhidos.split(",");
         Set<String> Mochila = new HashSet<>();
