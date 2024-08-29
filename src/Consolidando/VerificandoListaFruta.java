@@ -1,4 +1,4 @@
-package Desafios.ServicoTelefonia.VerificacaoComboCompleto;
+package Consolidando;
 
 
 import java.util.HashSet;

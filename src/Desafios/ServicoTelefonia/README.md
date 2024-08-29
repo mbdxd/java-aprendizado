@@ -14,8 +14,4 @@ O programa deve retornar:
 - `"Sim"` se o cliente contratou o serviço especificado.
 - `"Nao"` caso contrário.
 
-## Exemplos
 
-### Exemplo 1
-
-**Entrada**
