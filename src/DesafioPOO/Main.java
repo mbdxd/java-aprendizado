@@ -11,5 +11,7 @@ public class Main {
         curso2.setTitulo("Curso Python");
         curso2.setDescricao("Curso de Python focado em Ciência de Dados");
         curso2.setCargaHoraria(13);
+
+
     }
 }
