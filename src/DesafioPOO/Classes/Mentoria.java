@@ -3,10 +3,6 @@ package DesafioPOO.Classes;
 import java.time.LocalDate;
 
 public class Mentoria extends Conteudo {
-    @Override
-    public double calcularXp() {
-        return 0;
-    }
 
     private LocalDate data;
 

@@ -4,7 +4,6 @@ public abstract class Conteudo {
 
     protected static final double XP_PADRAO = 10d;
 
-    public abstract double calcularXP();
 
      private String titulo;
      private String descricao;
@@ -26,5 +25,5 @@ public abstract class Conteudo {
         this.descricao = descricao;
     }
 
-
+    public abstract double calcularXP();
 }
